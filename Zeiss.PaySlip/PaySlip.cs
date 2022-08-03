@@ -34,6 +34,8 @@ namespace Zeiss.PaySlip
             Console.WriteLine(empBl.empID + "  " + empBl.FirstName+" "+empBl.LastName);
             Console.WriteLine("Date of joining " + empBl.DOJ);
 
+            Console.WriteLine("Basic Pay: ");
+
         }
 
     }
